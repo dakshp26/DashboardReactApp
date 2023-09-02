@@ -1,6 +1,22 @@
-# Getting Started with Create React App
+# Dashboard React Admin Project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a front-end project made using React. It has multiple pages that are as follows:
+- Main Dashboard page with all the cumulative values displayed in a beautiful layout
+- Calendar page for keeping track of events and adding and removing them (some initial events are already there)
+- Profile form page that creates a dummy user object that is printed on the dev console
+- FAQ Page made using MUI Accordion component'
+- Team, Contacts, and Invoices pages made using the MUI Data Grid
+- Bar, Line, Pi, and Geography chart built using Nivo Charts (the website provides template code that was modified to create the output)
+
+The project uses multiple libraries which are listed as follows
+- Nivo Charts (For line, bar, pie and geography charts)
+- React Pro Sidebar
+- Material UI (for light/dark mode, MUI icons, box component, data grid, MUI Accordion)
+- FullCalendar (for events calendar)
+- Formik (for profile form page)
+- Yup (allows validation)
+
+![ReactProj](https://github.com/dakshp26/DashboardReactApp/assets/85281998/59a75d0c-3ee8-47f0-a7d0-db88276b0336)
 
 ## Available Scripts
 
